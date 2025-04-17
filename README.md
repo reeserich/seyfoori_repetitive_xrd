@@ -1,0 +1,1 @@
+An analysis of the raw data from the XRD patterns of [Seyfoori et al. 2019](https://doi.org/10.1039/C9BM00552H), as provided by the authors at this Google Drive link [(requires a request for access)](https://drive.google.com/drive/folders/1CeerNYi11TXgikzf20RckilpaTqtaB-m).
